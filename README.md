@@ -1,3 +1,1 @@
-# Projects
 
-## RİPO HAZIRLANIYORU..
