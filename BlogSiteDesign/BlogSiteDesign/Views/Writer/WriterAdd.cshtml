@@ -1,0 +1,53 @@
+﻿@model BlogSiteDesign.Models.AddProfileImage
+
+@{
+    ViewData["Title"] = "WriterAdd";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+
+<form asp-controller="Writer" asp-action="WriterAdd" class="form-group" method="post" enctype="multipart/form-data">
+
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Yazar Profil Bilgileri Düzenleme</h4>
+
+                <div class="forms-sample ">
+                    <div class="form-group mt-4" hidden>
+                        <label asp-for="WriterID">ID</label>
+                        <input type="text" class="form-control" asp-for="WriterID" placeholder="Name">
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="WriterName">Ad Soyad</label>
+                        <input type="text" class="form-control" asp-for="WriterName" placeholder="Name">
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="WriterMail">Mail </label>
+                        <input type="email" class="form-control" asp-for="WriterMail" placeholder="Email">
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="WriterPassword">Şifre</label>
+                        <input type="password" class="form-control" asp-for="WriterPassword" placeholder="Password">
+                    </div>
+
+                    <div class="form-group mt-4">
+                        <label asp-for="WriterImage">Görsel</label>
+                        <input  type="file" asp-for="WriterImage" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="WriterAbout">Hakkında</label>
+                        <textarea class="form-control" asp-for="WriterAbout" rows="6"></textarea>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-gradient-primary mr-2">Kaydet</button>
+                    <button class="btn btn-light">İptal</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</form>

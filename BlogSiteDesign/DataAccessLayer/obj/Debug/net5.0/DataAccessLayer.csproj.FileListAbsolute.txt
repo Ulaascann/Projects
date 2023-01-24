@@ -1,0 +1,54 @@
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

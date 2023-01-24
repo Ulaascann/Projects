@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWPOvtv6rgW+bjLI9BUZaDjx8pwLJGLh6FLQuxagDMgU3SnHZ45tkofvXUrxuxH87W8ucKqIRws37Z5eYyI7Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esmas\\Desktop\\tm\\arap esmoş\\BlogSiteDesign\\CoreLayer\\CoreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esmas\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\esmas\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\esmas\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\esmas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

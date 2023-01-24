@@ -1,0 +1,24 @@
+﻿@using BlogSiteDesign.Areas.Admin.Models
+@model RoleUpdateViewModel
+
+
+@{
+    ViewData["Title"] = "UpdatSivrie";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Rol Düzenleme Sayfası</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label>Role ID</label>
+        <input type="text" @*asp-for="Id"*@ name="ıd" value="@Model.Id" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label>Role Başlığı</label>
+        <input type="text" @*asp-for="name"*@ name="name" value="@Model.name" class="form-control"/>
+    </div>
+
+    <button class="btn btn-success">Rolü Güncelle</button>
+</form>
+

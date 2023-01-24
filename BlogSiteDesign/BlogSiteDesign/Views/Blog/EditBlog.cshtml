@@ -1,0 +1,49 @@
+﻿@model EntitiyLayer.Concrete.Blog
+
+@{
+    ViewData["Title"] = "EditBlog";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>EditBlog</h1>
+
+<form asp-action="EditBlog" asp-controller="Blog" method="post">
+    <div class="mb-3" hidden>
+        <label asp-for="BlogID" class="form-label">BlogID</label>
+        <input type="text" asp-for="BlogID" class="form-control" placeholder="">
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlogTitle" class="form-label">Blog Başlığı</label>
+        <input type="text" asp-for="BlogTitle" class="form-control" placeholder="name@example.com">
+    </div>
+    
+    <div class="mb-3">
+        <label asp-for="BlogThumbnailImage" class="form-label">Blog Küçük Resim</label>
+        <input type="text" asp-for="BlogThumbnailImage" class="form-control" placeholder="">
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlogImage" class="form-label">Blog Resim</label>
+        <input type="text" asp-for="BlogImage" class="form-control" placeholder="">
+    </div>
+    <div class="mb-3">
+        <div>
+            <label asp-for="CategoryID">Kategori</label>
+        </div>
+        
+        <select asp-for="CategoryID" class="form-control" asp-items="@ViewBag.categoryvalues">
+            <option disabled selected>Select Category</option>
+        </select>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlogContent" class="form-label">Blog İçeriği</label>
+        <textarea asp-for="BlogContent" class="form-control" rows="5"></textarea>
+    </div>
+    
+   @* <div class="mb-3">
+        <label asp-for="BlogStatus" class="form-label">Blog Durumu</label>
+        <input type="text" asp-for="BlogStatus" class="form-control" placeholder="">
+    </div>*@
+    <button class="btn btn-info">Güncelle</button>
+</form>
+

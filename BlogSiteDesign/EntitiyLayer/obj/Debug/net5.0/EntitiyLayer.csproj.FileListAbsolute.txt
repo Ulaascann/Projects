@@ -1,0 +1,36 @@
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\refint\EntitiyLayer.dll
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Wissen\Desktop\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\refint\EntitiyLayer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\refint\EntitiyLayer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll

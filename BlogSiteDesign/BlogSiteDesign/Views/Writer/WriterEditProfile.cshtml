@@ -1,0 +1,86 @@
+﻿@model BlogSiteDesign.Models.UserUpdateViewModel
+
+
+
+@{
+    ViewData["Title"] = "WriterEditProfile";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+
+
+@*@using (Html.BeginForm("WriterEditProfile","Writer",FormMethod.Post)){
+
+    @Html.TextBoxFor(x=>x.WriterID)
+    <br />
+    @Html.TextBoxFor(x=>x.WriterName)
+
+}*@
+
+@*<form asp-action="Writereditprofile" asp-controller="Writer" method="post">
+
+    <div class="form-group mt-3">
+        <label asp-for="WriterID" class="form-label">Yazar ID</label>
+        <input asp-for="WriterID" type="text" class="form-control" >
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="WriterName" class="form-label">Yazar Adı</label>
+        <input asp-for="WriterName" type="text" class="form-control" >
+    </div>   
+</form>*@
+
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Yazar Profil Bilgileri Düzenleme</h4>
+
+                <form class="forms-sample" asp-action="WriterEditProfile" asp-controller="Writer" method="post">
+                    
+                <div class="form-group mt-4">
+                        <label asp-for="namesurname">Ad Soyad</label>
+                        <input type="text" class="form-control" asp-for="namesurname" placeholder="Name">
+                </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="username">Kullanıcı Adı </label>
+                        <input type="text" class="form-control" asp-for="username" placeholder="Email">
+                    </div>
+                    <div class="form-group mt-4">
+                      <label asp-for="mail">Mail </label>
+                        <input type="email" class="form-control" asp-for="mail" placeholder="Email">
+                </div>
+                <div class="form-group mt-4">
+                    <label asp-for="password">Yeni Şifreniz </label>
+                    <input type="text" class="form-control" asp-for="password" placeholder="Yeni Şifre">
+                </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="imageurl">Resim Dizini </label>
+                        <input type="text" class="form-control" asp-for="imageurl" placeholder="url">
+                    </div>
+                
+               
+                    
+@*                <div class="form-group mt-4">
+                    <label>Görsel</label>
+                    <input type="file" name="img[]" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Fotoğraf Seçiniz">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Resim Seç</button>
+                        </span>
+                    </div>
+                </div>
+*@                @*<div class="form-group">
+                        <label asp-for="WriterAbout">Hakkında</label>
+                        <textarea class="form-control" asp-for="WriterAbout" rows="6"></textarea>
+                </div>*@
+                    
+                
+                <button type="submit" class="btn btn-gradient-primary mr-2">Kaydet</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
+

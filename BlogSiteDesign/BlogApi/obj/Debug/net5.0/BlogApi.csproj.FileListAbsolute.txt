@@ -1,0 +1,130 @@
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\appsettings.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.exe
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.runtimeconfig.dev.json
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\scopedcss\bundle\BlogApi.styles.css
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.RazorTargetAssemblyInfo.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.CopyComplete
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\refint\BlogApi.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\ref\BlogApi.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\BlogApi.StaticWebAssets.Pack.cache
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.build.BlogApi.props
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BlogApi.props
+C:\Users\kemre\OneDrive\Masaüstü\MVC PROJE KEE\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BlogApi.props
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\appsettings.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.exe
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.deps.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.runtimeconfig.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.runtimeconfig.dev.json
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\BlogApi.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.AssemblyReference.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.AssemblyInfoInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.AssemblyInfo.cs
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\scopedcss\bundle\BlogApi.styles.css
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\BlogApi.StaticWebAssets.Pack.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.build.BlogApi.props
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BlogApi.props
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BlogApi.props
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.RazorTargetAssemblyInfo.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.csproj.CopyComplete
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\refint\BlogApi.dll
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.pdb
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\BlogApi.genruntimeconfig.cache
+C:\Users\esmas\Desktop\tm\arap esmoş\BlogSiteDesign\BlogApi\obj\Debug\net5.0\ref\BlogApi.dll
