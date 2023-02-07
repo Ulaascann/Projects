@@ -1,0 +1,13 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteRule ^index$ index.php [NC,L]
+
+RewriteRule ^hizmetler-([0-9a-zA-Z-_]+)-([0-9]+)$ hizmetler.php?sef=$1&id=$2 [L,QSA]
+RewriteRule ^hizmet-detay-([0-9a-zA-Z-_]+)-([0-9]+)$ hizmetler.php?sef=$1&id=$2 [L,QSA]
+
+
+#ErrorDocument 404 https://siriusdigital.com/
